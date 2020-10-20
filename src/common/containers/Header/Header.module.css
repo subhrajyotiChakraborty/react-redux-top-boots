@@ -1,0 +1,37 @@
+.header {
+    background-color: chocolate;
+    padding: 20px;
+    position: sticky;
+    margin-bottom: 30px;
+    top: 0;
+    z-index: 1000;
+}
+
+.headerText {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.cartSection {
+    position: absolute;
+    top: 33px;
+    right: 25px;
+}
+
+.cartBadge {
+    position: absolute;
+    top: -8px;
+    right: -5px;
+    margin: 0px;
+    background-color: gold;
+    border-radius: 10px;
+    padding: 2px;
+    color: black;
+    font-weight: 600;
+}
+
+.cartIcon {
+    color: white;
+    font-size: 40px;
+}
